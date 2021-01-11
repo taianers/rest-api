@@ -1,0 +1,29 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "rest api nodejs express",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taianers/rest-api.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "express"
+  ],
+  "author": "Taiane Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taianers/rest-api/issues"
+  },
+  "homepage": "https://github.com/taianers/rest-api#readme"
+}
